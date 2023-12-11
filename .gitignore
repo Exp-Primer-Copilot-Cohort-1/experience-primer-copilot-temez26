@@ -33,5 +33,7 @@
 ._*
 .Spotlight-V100
 .Trashes
+.vs
+.vscode
 ehthumbs.db
 Thumbs.db
